@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">Button</string>
+    <string name="contentDescription">An Image of Sarai Arriola</string>
+    <string name="helloworld_intro">Hello world! My name is Sarai Arriola. I love my family and sleeping.</string>
+    <string name="toast_popup">How u doin</string>
+</resources>
